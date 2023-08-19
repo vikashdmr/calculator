@@ -1,2 +1,2 @@
 # calculator
-demopapp
+demoApp
